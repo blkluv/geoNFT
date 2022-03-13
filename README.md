@@ -2,7 +2,7 @@
 
 > An NFT game where players move around in the real world to collect Geolocation based NFTs.
 
-[Group-7018.png](https://postimg.cc/xcc27FB6)
+[![Group-7018.png](https://i.postimg.cc/7YNZ5F9r/Group-7018.png)](https://postimg.cc/xcc27FB6)
 
 GeoNFT is a blockchain-based game where brands and creators can airdrop Geo-location based NFTs. Users need to move around in the real world to collect these NFTs using the clues they get.
 
